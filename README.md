@@ -1,4 +1,4 @@
-<h1>Hello world, I'm Kevin <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello world <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ![Profile views](https://gpvc.arturio.dev/ildfreelancer)
 
@@ -143,8 +143,8 @@
 
 ![Metrics](/github-metrics.svg)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ildfreelancer/ildfreelancer/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/DevWizard0000/DevWizard0000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 if you like what I am doing, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/ildfreelancer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/DevWizard0000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
