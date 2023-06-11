@@ -143,7 +143,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/DevWizard0000/DevWizard0000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ildfreelancer/ildfreelancer/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 if you like what I am doing, maybe consider buying me a coffee 🥺👉👈
 
