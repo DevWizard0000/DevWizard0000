@@ -1,4 +1,4 @@
-<h1>Hello world, I am Bohdan B. <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello world, I am Senior Mobile Developer. <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ![Profile views](https://gpvc.arturio.dev/ildfreelancer)
 
