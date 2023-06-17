@@ -147,4 +147,4 @@
 
 if you like what I am doing, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/DevWizard0000" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/beauty.World" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
