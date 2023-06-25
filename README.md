@@ -6,7 +6,7 @@
 
 <div style="display: flex;flex-wrap: wrap;">
   <div style="flex-grow: 1;">
-    <li>🔭 &nbsp; I’m currently working as a fullstack developer</li>
+    <li>🔭 &nbsp; I’m currently working as a mobile developer</li>
     <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/DevWizard0000?tab=repositories">Github</a></li>
     <li>💼 &nbsp; Any freelance work? <a href="mailto:beautifulworld820.1@gmail.com">Reach me via email</a></li>
     <li>💬 &nbsp; Ask me about anything tech related, I am happy to help</li>
